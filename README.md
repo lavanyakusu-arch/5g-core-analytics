@@ -19,7 +19,7 @@ This project simulates the analytics role of **5G NWDAF**, parsing AMF/SMF logs,
   - PDU Session Success
 
 - 🧩 **Slice-Level (SNSSAI) Analytics**
-  - UE count per network slice (eMBB, URLLC, etc.)
+  - Session count per network slice (eMBB, URLLC, etc.)
 
 - 🗄️ **Persistence Layer**
   - SQLite-based KPI storage
