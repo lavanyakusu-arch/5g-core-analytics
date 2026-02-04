@@ -1,10 +1,8 @@
 # 5G Core Analytics & Insights Platform
 
-A Python-based analytics system that parses **5G Core Network Function (NF) logs**
-(AMF, SMF), computes key performance indicators (KPIs), and stores them for
-analytics, visualization, and API exposure.
+A Python-based analytics system that parses 5G Core Network Function (NF) logs (AMF, SMF), computes key performance indicators (KPIs), and stores them for analysis, visualization, and API-based access.
 
-This project simulates the analytics role of **5G NWDAF**, parsing AMF/SMF logs, computing KPIs, and providing insights for network slices.
+This project simulates the analytics role of 5G NWDAF by processing AMF/SMF logs, deriving procedure-level KPIs, and providing insights into network and slice
 
 ---
 ## 🚀 Key Features
