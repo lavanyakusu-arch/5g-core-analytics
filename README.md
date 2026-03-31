@@ -2,11 +2,7 @@
 
 A Python-based analytics system that parses 5G Core Network Function (NF) logs (AMF, SMF), computes key performance indicators (KPIs), and stores them for analysis, visualization, and API-based access.
 
-<<<<<<< HEAD
 This project simulates the analytics role of 5G NWDAF by processing AMF/SMF logs, deriving procedure-level KPIs, and providing insights into network and slice performance.
-=======
-This project simulates the analytics role of 5G NWDAF by processing AMF/SMF logs, deriving procedure-level KPIs, and providing insights into network and slice
->>>>>>> ab9592988b779f2fad9ed04fb147203c5e59178d
 
 ---
 
@@ -21,7 +17,6 @@ This project simulates the analytics role of 5G NWDAF by processing AMF/SMF logs
   - Policy Association Requests, Success & Failures
   - PFCP Session Requests, Success & Failures
 
-<<<<<<< HEAD
 - 🧩 **[Slice-Level (SNSSAI) Analytics](#session-distribution-by-network-slice)**
   - Session count per network slice (eMBB, URLLC, mMTC)
   - Pie chart visualization of slice distribution
@@ -29,10 +24,6 @@ This project simulates the analytics role of 5G NWDAF by processing AMF/SMF logs
 - 📊 **[Success/Failure Rate Charts](#success-and-failure-rates)**
   - AMF Registration & Authentication rate visualization
   - SMF PDU / Policy / PFCP rate visualization
-=======
-- 🧩 **Slice-Level (SNSSAI) Analytics**
-  - Session count per network slice (eMBB, URLLC, etc.)
->>>>>>> ab9592988b779f2fad9ed04fb147203c5e59178d
 
 - 🗄️ **Persistence Layer**
   - SQLite-based KPI storage
